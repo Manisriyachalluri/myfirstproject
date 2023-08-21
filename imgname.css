@@ -1,0 +1,13 @@
+.carousel-item active{
+    position: relative;
+              text-align: left;
+              color: red;
+}
+
+    .text{
+     position: absolute;
+            top: 50%;
+            left: 20%;
+            transform: translate(-50%,-50%);
+    }
+
